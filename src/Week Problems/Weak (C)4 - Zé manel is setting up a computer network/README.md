@@ -1,5 +1,5 @@
 # <p align="center">Zé Manel is setting up a computer network</p>
-### Problem
+### Description
 Zé Manel is now working as a computer engineer. His first job is to set up a computer network in a company. The network topology must be a tree, that is, the highest level of the network consists of a root node, which is connected to a single or multiple nodes in the level below by a point-to-point link. These lower level nodes are also connected to a single or multiple nodes in the next level down and so on.
 In addition to the tree structure, there are some constraints that he must take into account:
 1. In order to reduce costs, the amount of cable used should be the least possible.
