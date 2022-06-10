@@ -1,0 +1,1 @@
+g++ -o PyramidScheme -std=c++17 -Wall -Wextra -O2 PyramidSchemeBottomUp.cpp -lm
