@@ -10,7 +10,7 @@ The array in reverse order, such that each number is separated by a space, follo
 ##
 ### Example
 #### Input
-3
+3<br>
 1 2 3
 #### Output
 3 2 1
