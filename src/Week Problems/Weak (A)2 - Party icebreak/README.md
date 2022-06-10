@@ -1,5 +1,5 @@
 
-# <p align="center">Problem A - Party icebreaker</p>
+# <p align="center">Party icebreaker</p>
 ### Description
 To cellebrate its success, a new company throws a really big party. Everyone who is someone in town is invited. To help people get to know each other, each guest is given a card with a number (a positive integer) upon arrival, and asked to find two other guests in the crowd to form a group of three such that:
 * there is at least one man and one woman in the group
