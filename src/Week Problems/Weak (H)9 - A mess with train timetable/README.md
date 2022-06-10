@@ -1,7 +1,7 @@
 # <p align="center">A mess with the train timetable!</p>
 ### Description
 You are working as a programmer in a railway company. Your duty is to write a software that generates personalized train timetables to users of the company's web system. Everything is going fine until suddenly you drop the coffee into the server that contains the complete trains schedule database .. time to panic! You have only time to print the contents of a table in the database that contains the assignment of trains to train stations. Then, PUM! .. the server blows up! And you do not even know if the data printed is not corrupted!
-Now you have an herculean task: Given several pairs of numbers printed in the sheet of paper that, eventually, correspond to the assignment of trains to train stations, you have to find out whether this data is corrupted or not. Clearly, it is corrupted if a pair of numbers corresponds to two trains or two train stations.. how to find this?
+Now you have an herculean task: Given several pairs of numbers printed in the sheet of paper that, eventually, correspond to the assignment of trains to train stations, you have to find out whether this data is corrupted or not. Clearly, it is corrupted if a pair of numbers corresponds to two trains or two train stations.. how to find this?<br>
 <img src=https://i.imgur.com/3QFo7S1.png />
 
 ##
@@ -17,17 +17,17 @@ m ≤ 65 000
 ##
 ### Example
 #### Example input:
-5 4
-1 2
-1 4
-1 5
-2 3
-5 5
-1 3
-2 4
-2 5
-3 4
-4 5
+5 4<br>
+1 2<br>
+1 4<br>
+1 5<br>
+2 3<br>
+5 5<br>
+1 3<br>
+2 4<br>
+2 5<br>
+3 4<br>
+4 5<br>
 #### Example output:
-NOT SURE
+NOT SURE<br>
 NO
