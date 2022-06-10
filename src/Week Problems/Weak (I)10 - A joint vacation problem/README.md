@@ -1,5 +1,5 @@
 # <p align="center">A joint vacation problem</p>
-### Problem
+### Description
 This Summer you are going on vacations with some friends and you are planning the places to visit. You have already decided which place to start at and where you want your vacation to end. However, since you are on a tight budget you need to make sure that you spend the least amount of money possible, which means that you might not be able to visit all possible places. You have done the math and know exactly how much you will spend on traveling (on gas, tolls, etc.) from each place A to every other place B. The question now is: how inexpensive can you make your vacation?<br><br>
 <img src=https://i.imgur.com/sfzfGEI.png />
 
