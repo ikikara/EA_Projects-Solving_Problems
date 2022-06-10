@@ -14,9 +14,9 @@ Each test case starts with the number of network nodes (n), the number of feasib
 Find the network as described above. In case there is no possibility of designing such network due to some constraint, the output should be "NO WAY!". Otherwise, output the minimum cost.
 ##
 ### Constraints
-- n ≤ 12
-- m ≤ 40
-- k ≤ n
+n ≤ 12<br>
+m ≤ 40<br>
+k ≤ n
 ##
 ### Example
 #### Example input:
