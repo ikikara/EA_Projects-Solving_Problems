@@ -19,7 +19,7 @@ Find the network as described above. In case there is no possibility of designin
 - k ≤ n
 ##
 ### Example
-#### Input:
+#### Example input:
 6 9 3<br>
 1 2 1<br>
 1 4 62<br>
@@ -48,7 +48,7 @@ Find the network as described above. In case there is no possibility of designin
 4 5 43<br>
 4 6 16<br>
 5 6 45<br>
-#### Output:
+#### Example output:
 38<br>
 90<br>
 NO WAY!<br>
