@@ -179,6 +179,7 @@ int main(){
         color_count = {};
         pieces = {};
         sides = {};
+        intersetions = {};
         odds = 0;
 
         //insert N pieces
