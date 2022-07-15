@@ -46,5 +46,5 @@ Consists in develop a group of programs that solve given problems efficiently.
    - For more information about the project problems and how we solved consult the respective statements and reports.
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Pedro Martins](https://github.com/PedroMartinsUC) [Only the project problems]
