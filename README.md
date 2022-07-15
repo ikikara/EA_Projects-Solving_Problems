@@ -19,7 +19,6 @@ Consists in develop a group of programs that solve given problems efficiently.
 ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6)
 
 ## To run this project:
-[WARNING] Java must be installed<br>
 1. Using Terminal:
     * Download on folder "src" the files corresponding to the problem that you want solve/see
     * Compile the program using the bash compile.sh:<br>
