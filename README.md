@@ -12,11 +12,11 @@
 These were the problems solved for Algorithmic Strategies subject @University of Coimbra, Informatics Engineering <br>
 Consists in develop a group of programs that solve given problems efficiently.
 
-## Technologies used:
-1. C++ ([documentation](https://devdocs.io/cpp/))
-
 #### Main Languages:
 ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6)
+
+## Technologies used:
+1. C++ ([documentation](https://devdocs.io/cpp/))
 
 ## To run this project:
 1. Using Terminal:
